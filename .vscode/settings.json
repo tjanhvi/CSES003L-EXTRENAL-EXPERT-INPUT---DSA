@@ -4,6 +4,7 @@
     "*.module": "php",
     "*.rmd": "markdown",
     "iostream": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "utility": "cpp"
   }
 }
